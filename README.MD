@@ -1,8 +1,10 @@
 # 🦁 Organizador de Declaração de Imposto de Renda
 
 ![Capa do Projeto](print.png)
-![Capa do Projeto](print-2.png)
-![Capa do Projeto](print-3.png)
+
+![Segunda Imagem](print-2.png)
+
+![Terceira Imagem](print-3.png)
 
 ## 📋 Sobre o Projeto
 
