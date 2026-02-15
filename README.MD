@@ -2,9 +2,9 @@
 
 ![Capa do Projeto](print.png)
 
-![Segunda Imagem](print-2.png)
+![Segunda Imagem](Print-2.png)
 
-![Terceira Imagem](print-3.png)
+![Terceira Imagem](Print-3.png)
 
 ## 📋 Sobre o Projeto
 
