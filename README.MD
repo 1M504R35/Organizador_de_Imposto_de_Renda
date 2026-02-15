@@ -1,7 +1,6 @@
 # 🦁 Organizador de Declaração de Imposto de Renda
 
 
-
 ## 📋 Sobre o Projeto
 
 Este projeto consiste em uma ferramenta desenvolvida inteiramente em **Microsoft Excel** com o objetivo de facilitar a organização, validação e centralização das informações necessárias para a Declaração de Imposto de Renda. 
